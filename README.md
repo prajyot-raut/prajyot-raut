@@ -49,11 +49,11 @@ Tech Stack
 
 Languages
 
-<p> <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp&theme=dark" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,js,ts,cpp&theme=dark" /> </p>
 
 AI / Machine Learning / Data Science
 
-<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn&theme=dark" /> </p>
 
 Frontend & Backend Development
 
