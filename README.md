@@ -1,72 +1,109 @@
-<h1 align="center">Hi 👋, I'm Prajyot Raut</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<!-- ==================== HEADER ==================== -->
 
-- 🔭 I’m currently working on **book-discite**
+<div align="center">
 
-- 🌱 I’m currently learning **Machine Learning, Svelte**
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:1D4ED8,100:0F172A&text=PRAJYOT%20RAUT&fontColor=FFFFFF&fontSize=55&fontAlignY=45&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20SOFTWARE%20ENGINEERING&descSize=13&descAlignY=65&animation=fadeIn" width="100%" />
 
-- 👨‍💻 All of my projects are available at [https://prajyot-raut.vercel.app/](https://prajyot-raut.vercel.app/)
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+intelligent+systems.;Exploring+AI+%26+Machine+Learning.;Turning+research+into+real-world+solutions.;Engineering+software+that+matters." alt="Typing SVG" /> </a>
 
-- 💬 Ask me about **react, HTML Canvas**
+<br/>
 
-- 📫 How to reach me **prajyotraut77@gmail.com**
+<a href="https://prajyot-raut.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://linkedin.com/in/prajyot-raut"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:prajyotraut77@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
-- 📄 Know about my experiences [https://prajyot-raut.vercel.app/resume.pdf](https://prajyot-raut.vercel.app/resume.pdf)
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prajyot-raut" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajyot-raut" height="30" width="40" /></a>
-<a href="https://kaggle.com/prajyotr" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prajyotr" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=prajyotr&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
 
-<h3 align="left">Languages and Tools:</h3>
+</div>
 
-<table>
-<tr>
-<td><a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/></a></td>
+<!-- ==================== ABOUT ==================== -->
 
-<td><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a></td>
+About Me
 
-<td><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a></td>
+I'm Prajyot Raut, a Computer Science and Artificial Intelligence undergraduate at Plaksha University, India.
 
-<td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a></td>
+I'm interested in building intelligent systems at the intersection of AI, machine learning, data science, and software engineering.
 
-<td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a></td>
+I enjoy working across the entire development lifecycle, from understanding a problem and experimenting with models to building reliable software and deploying practical solutions.
 
-<td><a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a></td>
+🔬 Exploring Machine Learning, Deep Learning, and applied AI research.
 
-<td><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a></td>
+🧠 Working on research problems in trajectory generation, urban mobility, and GeoAI.
 
-<td><a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a></td>
+⚙️ Developing full-stack applications and backend systems.
 
-<td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a></td>
+☁️ Exploring cloud infrastructure, AI deployment, and scalable systems.
 
-<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a></td>
+🎓 Bharti Airtel Scholar.
 
-<td><a href="https://materializecss.com/" target="_blank"><img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/materialize.svg" width="40" height="40"/></a></td>
+🌱 Always learning, experimenting, and building.
 
-<td><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a></td>
 
-<td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a></td>
+Areas of Interest
 
-<td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a></td>
+- **AI & Machine Learning:** Deep Learning, Computer Vision, Generative AI
+- **Software Engineering:** Full-Stack Development, Backend Systems, Cloud Computing
+- **Research & Data:** Data Science, GeoAI, Urban Mobility
 
-<td><a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a></td>
+<!-- ==================== TECH STACK ==================== -->
 
-<td><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a></td>
+Tech Stack
 
-<td><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a></td>
+Languages
 
-<td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a></td>
+<p> <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp&theme=dark" /> </p>
 
-<td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a></td>
+AI / Machine Learning / Data Science
 
-<td><a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/></a></td>
+<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" /> </p>
 
-<td><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a></td>
+Frontend & Backend Development
 
-<td><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a></td>
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css,tailwind&theme=dark" /> </p>
 
-<td><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a></td>
-</tr>
-</table>
+Databases & Cloud Infrastructure
+
+<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,docker,gcp,vercel,git,github,linux&theme=dark" /> </p>
+
+
+<!-- ==================== GITHUB ANALYTICS ====================
+
+GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prajyotr&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajyotr&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=prajyotr&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+</div>
+ -->
+<!-- ==================== CONTRIBUTIONS ====================
+
+Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajyotr&bg_color=00000000&color=94A3B8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+ -->
+<!-- ==================== CONNECT ==================== -->
+
+Let's Connect
+
+I'm always interested in connecting with developers, researchers, and people building interesting things in AI and technology.
+
+<div align="center">
+
+<a href="https://prajyot-raut.vercel.app/"> <img src="https://img.shields.io/badge/Website-Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://linkedin.com/in/prajyot-raut"> <img src="https://img.shields.io/badge/LinkedIn-Prajyot_Raut-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://kaggle.com/prajyotr"> <img src="https://img.shields.io/badge/Kaggle-prajyotr-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /> </a> <a href="mailto:prajyotraut77@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1D4ED8&height=100&section=footer" width="100%" />
+
+</div>
